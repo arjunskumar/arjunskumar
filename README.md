@@ -1,6 +1,5 @@
 <h1 align='center'> Hi There! 👋 <a href="#"><img src="https://visitor-badge.laobi.icu/badge?page_id=arjunskumar.visitor-badge" alt="visitor badge"></a></h1>
 
-![arjunskumar's github stats](https://github-readme-stats.vercel.app/api?username=arjunskumar&show_icons=true&hide_border=true)
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.5%20million%20Lines%20of%20code-blue)
@@ -68,3 +67,6 @@ HTML                     1 repos             █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+
+![arjunskumar's github stats](https://github-readme-stats.vercel.app/api?username=arjunskumar&show_icons=true&hide_border=true)
