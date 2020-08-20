@@ -2,7 +2,7 @@ name: wakatime-stats
 
 on:
   schedule:
-    - cron: '05 06 * * *'
+    - cron: '30 18 * * *'
 
 jobs:
   update-readme:
@@ -21,4 +21,4 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_LOC_CHART: "False"
           SHOW_LINES_OF_CODE: "True"
-          SHOW_SHORT_INFO: "True"
+          SHOW_SHORT_INFO: "False"
