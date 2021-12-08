@@ -2,17 +2,12 @@
 
 
 
-
-
-![arjunskumar's github stats](https://github-readme-stats.vercel.app/api?username=arjunskumar&show_icons=true&hide_border=true)
-
-
-
-
 ![](https://github.com/arjunskumar/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/arjunskumar/github-stats/blob/master/generated/languages.svg)
 
 <!--
+![arjunskumar's github stats](https://github-readme-stats.vercel.app/api?username=arjunskumar&show_icons=true&hide_border=true)
+
 **arjunskumar/arjunskumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
