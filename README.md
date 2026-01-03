@@ -55,36 +55,6 @@ I specialize in **SLAM, perception, and full-stack autonomy pipelines** — powe
 🏆 **Ignitarium Hi-5 Award** – For contributions in autonomous robotics  
 🤝 **Team Sparks Award** – For collaboration and R&D excellence  
 
----
-
-### 🎥 Featured Robotics Demos  
-
-| Demo | Link |
-|:------|:------|
-| 🧹 Autonomous Floor Cleaning Robot | [Watch on YouTube](https://youtu.be/XshcL-epzh8) |
-| 🌐 LiDAR-SLAM in Dynamic Environments | [Watch on YouTube](https://youtu.be/KtlP-T77NXA) |
-| ⚡ CUDA-accelerated ORB-SLAM3 | [Watch on YouTube](https://youtu.be/pE_9S619tgo) |
-| 🧠 YOLOv8-based Perception Stack | [Watch on YouTube](https://youtu.be/p6o3ZCWnMZM) |
-
----
-
-### 📈 GitHub Insights  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjunskumar&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunskumar&theme=radical" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunskumar&layout=compact&theme=radical" height="120" />
-</p>
-
----
-
-### 🌱 Fun Fact  
-When I’m not debugging SLAM drift, you’ll find me fine-tuning drone trajectories or filming robotics demos for YouTube.  
-
-> 🧭 *Always exploring new frontiers in autonomy and machine intelligence.*
 
 ---
 
